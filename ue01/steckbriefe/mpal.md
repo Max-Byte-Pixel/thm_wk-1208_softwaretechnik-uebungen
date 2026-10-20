@@ -12,4 +12,4 @@ SVN als Versionsverwaltung.
 
 ## Das erwarte ich von der Veranstaltung
 
-…
+Neues theoretisches Wissen
